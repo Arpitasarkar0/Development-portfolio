@@ -17,7 +17,7 @@ display: flex;
     padding-left: 05%;
 }
 .width img{
-    width: 75%;
+    width: 65%;
 }
 .gf{
 text-decoration: none;
@@ -33,4 +33,12 @@ margin-left: 50px;
     background-repeat: no-repeat;
   
 
+}
+.banner{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+#margin{
+    margin-top: 200px;
 }
